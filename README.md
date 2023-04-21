@@ -3,7 +3,8 @@
 
 ### Skills:
 - Python, Pytorch, Keras
-- Java (new bie)
+- C/C++ (basic)
+- Java (basic)
 - Latex
 - Bash, Powershell
 
