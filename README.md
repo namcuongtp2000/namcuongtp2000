@@ -2,7 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namcuongtp2000&show_icons=true&theme=radical)
 
 ### Skills:
-- Python, Pytorch, Keras
+- Python, Pytorch, Keras, TensorFlow
+- C#, .NET Core, .NET Framework (basic)
 - C/C++ (basic)
 - Java (basic)
 - Latex
